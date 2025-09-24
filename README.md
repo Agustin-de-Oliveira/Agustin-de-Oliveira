@@ -11,31 +11,36 @@
 
 ---
 
-### 🌍 **About Me**  
+### **Me**  
 - Based in **Buenos Aires, Argentina**  
 - Passionate about building **developer tools**
 - Love clean code and minimalist design  
 
 ---
 
-### 🚀 **Current Project**  
+### **Current Project**  
 
 #### **EnviroCLI**  
 _A Windows command-line environment manager for organizing and launching apps._  
 **Tech:** C# · CLI Tools  
 [Repository](https://github.com/agus-dot1/envirocli)  
 
+#### **Clima**  
+_A CLI app to check the weather._  
+**Tech:** C# · CLI Tools  
+[Repository](https://github.com/agus-dot1/clima)  
+
 ---
 
-### 🖥️ **Tech Stack**
+### **Stack**
 **Languages**  
 `C#` `C` `JavaScript` `HTML/CSS`
 
 **Frameworks**  
-`WPF` `.NET` `Astro` `Express`
+`WPF` `Astro` `Express`
 
 **Tools**  
-`Figma` `Obsidian` `Vim` 
+`Figma` 
 
 ---
 
