@@ -37,7 +37,7 @@ _A CLI app to check the weather._
 `C#` `C` `JavaScript` `HTML/CSS`
 
 **Frameworks**  
-`WPF` `Astro` `Express`
+`WPF` `React` `Express`
 
 **Tools**  
 `Figma` 
