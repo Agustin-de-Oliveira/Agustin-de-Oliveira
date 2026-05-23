@@ -1,4 +1,3 @@
-### Agustín de Oliveira
 **Investigador en IA Aplicada y Arquitectura de Sistemas**
 
 Actualmente construyendo el futuro de la simulación de ingeniería en **Praxis** (en desarrollo). 
