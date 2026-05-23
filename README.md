@@ -11,5 +11,5 @@ Mi enfoque principal se encuentra en la intersección de los Sistemas Distribuid
 **Stack Principal:** Go, Java, C#, Python, TypeScript | Docker, Kubernetes, PostgreSQL | TDD, DDD, SOLID
 
 **Lecturas Técnicas:**
-* **Actual:** *Clean Architecture* (Robert C. Martin)
-* **Completados:** *The Pragmatic Programmer*, *Dependency Injection*
+* **Actual:** *Clean Architecture por Robert C. Martin* 
+* **Completados:** *The Pragmatic Programmer por Andrew Hunt y David Thomas*, *Dependency Injection orientado a C# por Steven van Deursen y Mark Seemann*
