@@ -7,7 +7,7 @@ Mi enfoque principal se encuentra en la intersección de los Sistemas Distribuid
 * **Sentinel:** Automatización inteligente de testing y cobertura de contratos mediante análisis de AST.
 * **Beacon:** Analizador léxico para la transformación de especificaciones técnicas en código y documentación formal (ADRs).
 
-**Stack Principal:** Go, Java, C#, Python, TypeScript | Docker, Kubernetes, PostgreSQL | TDD, DDD, SOLID
+**Stack Principal:** C#, Java, Python, TypeScript, Go | Docker, Kubernetes, PostgreSQL | TDD, DDD, SOLID
 
 **Lecturas Técnicas:**
 * **Actual:** *Clean Architecture por Robert C. Martin* 
