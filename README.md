@@ -1,4 +1,4 @@
-**Desarrollador de Software e IA Aplicada**
+**Desarrollador de Software**
 
 Actualmente construyendo **Magacín**, una plataforma editorial dedicada a traducir, curar y contextualizar papers, ensayos de ingeniería y textos fundacionales de inteligencia artificial y sistemas distribuidos al español.
 
